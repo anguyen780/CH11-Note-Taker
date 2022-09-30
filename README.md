@@ -22,6 +22,8 @@ Clone the repo to your machine and install packages with npm i
 
 Use this web application to make a todo list or just keep track of assignments.
 
+You can visit the live link [here](https://sleepy-gorge-71008.herokuapp.com/)
+
 ## Questions
 
 You can view more of my projects at [Github](https://github.com/anguyen780)
