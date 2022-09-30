@@ -24,6 +24,9 @@ Use this web application to make a todo list or just keep track of assignments.
 
 You can visit the live link [here](https://sleepy-gorge-71008.herokuapp.com/)
 
+![Demo1](./demo_assets/Screen%20Shot%202022-09-29%20at%208.32.00%20PM.png)
+![Demo2](./demo_assets/Screen%20Shot%202022-09-29%20at%208.32.55%20PM.png)
+
 ## Questions
 
 You can view more of my projects at [Github](https://github.com/anguyen780)
